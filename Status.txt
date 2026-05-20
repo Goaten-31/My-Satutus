@@ -1,2 +1,2 @@
-Started a Streamlit-powered data science web app
-Still not as active
+Finished the Streamlit webapp
+Still not as active as I wish I was
