@@ -1,2 +1,2 @@
-Finished the Streamlit webapp
-Still not as active as I wish I was
+starting an internship on the 6th of july
+also learning react, I hate js
